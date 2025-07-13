@@ -43,8 +43,8 @@ gcloud run deploy dermapal-agent \
 💡 Reemplaza [PROJECT-ID] y las variables de entorno con tus valores reales.
 ```
 
-## ✅ Endpoint de prueba
+---
 
-Una vez desplegado, puedes acceder al endpoint así:
+## 🤝 Conecta conmigo
 
-https://<tu-url>.run.app/agent?idagente=cliente123&msg=Hola, tengo piel mixta y manchas
+👩🏻‍💻 [Nicole Tumi en LinkedIn](https://www.linkedin.com/in/nicole-tumi/)
