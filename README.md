@@ -37,7 +37,8 @@ gcloud run deploy dermapal-agent \
   --platform managed \
   --region us-central1 \
   --allow-unauthenticated \
-  --set-env-vars "OPENAI_API_KEY=sk-...,LANGCHAIN_API_KEY=lsv2_...,LANGSMITH_ENDPOINT=https://api.smith.langchain.com,LANGCHAIN_PROJECT=gcpaiagent,DB_URI=postgresql://...,es_user=elastic,es_password=x+x1h7UsF=bwFtNQNNik"
+  --set-env-vars "OPENAI_API_KEY=<tu_openai_api_key>,LANGCHAIN_API_KEY=<tu_langchain_api_key>,LANGSMITH_ENDPOINT=https://api.smith.langchain.com,LANGCHAIN_PROJECT=gcpaiagent,DB_URI=<tu_db_uri>,es_user=<tu_usuario_es>,es_password=<tu_contraseña_es>"
+
 
 💡 Reemplaza [PROJECT-ID] y las variables de entorno con tus valores reales.
 ```
